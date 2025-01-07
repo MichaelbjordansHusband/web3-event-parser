@@ -169,3 +169,9 @@ The Event Handler package contains separate modules for each event handler. Each
 
 # Improvements
 1. Add testing and validation steps
+
+## Web5tbd.developer
+
+The Web5tbd.developer role is responsible for developing and maintaining Web5 applications. This includes designing, coding, testing, and debugging applications, as well as collaborating with other developers and stakeholders to ensure the successful delivery of projects.
+
+For more information, please refer to the [Web5tbd.developer documentation](https://example.com/web5tbd-developer-docs).
